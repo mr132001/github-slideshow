@@ -11,3 +11,13 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+
+
+## Creators [🔝](#welcome-badges-4-readmemd-profile)
+
+It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/Pavankumar-Hegde/Badges4-README.md-Profile/graphs/contributors). including [Authors](https://github.com/Pavankumar-Hegde) & [Collaborator](https://github.com/Pavankumar-Hegde). 
+
+| [<img src="https://github.com/Pavankumar-Hegde.png?size=115" width="115"><br><sub>@Pavankumar-Hegde</sub>](https://github.com/Pavankumar-Hegde) |
+
+PS: Please do not forget to drop a star if you like it!
+
